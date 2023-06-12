@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string-array name="PILIHAN">
+    <item>Jelajahi</item>
+    <item>Hubungi</item>
+    <item>Baca Data</item>
+    <item>Cek Posisi</item>
+</string-array>
+
+</resources>
